@@ -21,7 +21,7 @@ If you're a **data engineer, Python developer, or analyst**, this repo will **le
 
 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/data-engineering-pro-tips.git
+git clone https://github.com/naveedanjum/data-engineering-pro-tips.git
 cd data-engineering-pro-tips
 
 python -m venv venv

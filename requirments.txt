@@ -1,0 +1,5 @@
+pandas
+polars
+pyarrow
+multiprocessing
+psutil
